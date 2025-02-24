@@ -2,6 +2,7 @@
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Githuuub.
 Un commit desde github
+cambios desde developer01
 Los proyectos son los siguientes:
 
 ## Plantilla web para presentación
